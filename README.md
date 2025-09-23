@@ -12,7 +12,7 @@ You can then run the program with:
 
 ```stack run -- [your filename here]```
 
-For example, to run [the mandelbrot program I used to speed test](https://github.com/ErikDubbelboer/brainfuck-jit/blob/master/mandelbrot.bf), place the file in the source folder and type:
+For example, to run [the mandelbrot program I used to speed test](https://github.com/ErikDubbelboer/brainfuck-jit/blob/master/mandelbrot.bf), place the file in the main directory and type:
 
 ```stack run -- mandelbrot.bf```
 
