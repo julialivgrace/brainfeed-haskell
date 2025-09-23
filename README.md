@@ -1,4 +1,4 @@
-# fword-haskell
+# brainfeed-haskell
 
 Welcome! this is a brainf*** interpreter that I wrote in Haskell. 
 
