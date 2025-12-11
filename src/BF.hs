@@ -15,6 +15,9 @@ import qualified BF.Zipper                     as Zipper
 import           Control.Arrow                  ( (>>>) )
 import           Control.Monad.State
 import           Data.Word                      ( Word8 )
+import           Control.Monad                  ( unless
+                                                , void 
+                                                )
 
 type TapeMachine = Zipper Word8
 
